@@ -1,0 +1,352 @@
+{
+  "sales": "Ventas",
+  "inventory": "Inventario",
+  "menu": "Men\u00fa",
+  "finances": "Finanzas",
+  "save": "Guardar",
+  "common": {
+    "currency": "DOP",
+    "days": {
+      "mon": "Lun",
+      "tue": "Mar",
+      "wed": "Mie",
+      "thu": "Jue",
+      "fri": "Vie",
+      "sat": "Sab",
+      "sun": "Dom"
+    },
+    "labels": {
+      "quantity": "Cantidad",
+      "time": "Hora"
+    },
+    "paymentMethods": {
+      "cash": "Efectivo",
+      "transfer": "Transferencia",
+      "credit": "Fiado"
+    },
+    "placeholders": {
+      "amount": "Ingresa un monto",
+      "note": "Agrega una nota para el equipo",
+      "optional": "Opcional",
+      "quantity": "Ingresa la cantidad"
+    },
+    "status": {
+      "active": "Activo",
+      "available": "Disponible",
+      "inactive": "Inactivo",
+      "low": "Bajo",
+      "out": "Agotado"
+    },
+    "units": {
+      "bottle": "botella",
+      "gallon": "galon",
+      "kg": "kg",
+      "lb": "lb",
+      "liter": "litro",
+      "ml": "ml",
+      "oz": "oz",
+      "package": "paquete",
+      "unit": "unidad",
+      "unitPlural": "unidades",
+      "unitSingular": "unidad"
+    }
+  },
+  "navigation": {
+    "finances": "Finanzas",
+    "home": "Inicio",
+    "inventory": "Inventario",
+    "menu": "Men\u00fa",
+    "more": "M\u00e1s",
+    "sales": "Ventas"
+  },
+  "roles": {
+    "administrator": "Administradora"
+  },
+  "shell": {
+    "subtitle": "Control premium y c\u00e1lido para la operaci\u00f3n diaria"
+  },
+  "dashboard": {
+    "activity": {
+      "counterSale": "Venta de mostrador completada",
+      "ricePurchase": "Compra de arroz registrada",
+      "wasteBread": "Merma de pan registrada"
+    },
+    "activityTime": {
+      "hours2": "Hace 2 h",
+      "hours3": "Hace 3 h",
+      "minutes12": "Hace 12 min"
+    },
+    "cashClosing": "Cierre de caja",
+    "cashHelper": "Proyectado con la actividad del d\u00eda",
+    "estimatedProfit": "Ganancia estimada",
+    "expectedCash": "Caja esperada",
+    "expensesToday": "Gastos de hoy",
+    "heroDateLabel": "Fecha actual",
+    "inventoryAlertHint": "Productos cerca de su nivel m\u00ednimo",
+    "inventoryAlerts": "Alertas de inventario",
+    "kpiTitle": "Desempe\u00f1o del d\u00eda",
+    "liveMockData": "Datos est\u00e1ticos de vista previa",
+    "lowInventorySummary": "Los productos bajos necesitan acci\u00f3n",
+    "lowProducts": "Productos bajos",
+    "newExpense": "Nuevo gasto",
+    "newSale": "Nueva venta",
+    "overviewSubtitle": "Vista r\u00e1pida de ventas, caja y stock.",
+    "quickActions": "Acciones r\u00e1pidas",
+    "quickActionsHint": "Usa los flujos m\u00e1s comunes sin salir del panel.",
+    "recentActivity": "Actividad reciente",
+    "registerPurchase": "Registrar compra",
+    "salesSummary": "Resumen visual de ventas",
+    "salesSummaryHint": "Tendencia simple semanal con totales simulados.",
+    "salesToday": "Ventas de hoy",
+    "sectionOverview": "Resumen del d\u00eda",
+    "subtitle": "Supervisa ventas, ganancias, gastos e inventario desde un panel dise\u00f1ado para una cafeter\u00eda real.",
+    "title": "Control del negocio de tu cafeter\u00eda en un solo lugar",
+    "trendExpenses": "Controlado frente al plan diario",
+    "trendProfit": "+10.1% vs ayer",
+    "trendSales": "+12.5% vs ayer",
+    "welcome": "Bienvenida de vuelta"
+  },
+  "salesPage": {
+    "cash": "Efectivo",
+    "credit": "Fiado",
+    "customerOptional": "Cliente opcional",
+    "estimatedProfit": "Ganancia estimada",
+    "formSubtitle": "Flujo simulado para registrar ventas sin persistencia.",
+    "formTitle": "Registrar venta",
+    "noteOptional": "Nota opcional",
+    "paymentMethod": "M\u00e9todo de pago",
+    "preview": "Vista r\u00e1pida",
+    "product": "Plato o producto",
+    "registerSale": "Registrar venta",
+    "salesListSubtitle": "Transacciones de hoy usando datos est\u00e1ticos del prototipo.",
+    "salesListTitle": "Ventas de hoy",
+    "subtitle": "Captura ventas, revisa el rendimiento del d\u00eda y mant\u00e9n visibles los m\u00e9todos de pago.",
+    "summarySubtitle": "Totales generales del d\u00eda actual.",
+    "summaryTitle": "Resumen de ventas",
+    "title": "Ventas",
+    "totalSold": "Total vendido",
+    "transfer": "Transferencia"
+  },
+  "inventory": {
+    "actions": {
+      "adjustInventory": "Ajuste de inventario",
+      "registerPurchase": "Registrar compra",
+      "registerWaste": "Registrar merma"
+    },
+    "actionsSubtitle": "Operaciones clave para compras, p\u00e9rdidas y correcciones.",
+    "actionsTitle": "Acciones de inventario",
+    "averageCost": "Costo promedio",
+    "baseUnit": "Unidad base",
+    "categories": {
+      "bakery": "Panader\u00eda",
+      "beverages": "Bebidas",
+      "dairy": "L\u00e1cteos",
+      "deli": "Embutidos",
+      "grains": "Granos",
+      "oils": "Aceites",
+      "proteins": "Prote\u00ednas",
+      "sauces": "Salsas"
+    },
+    "currentQuantity": "Cantidad actual",
+    "minimumLevel": "Nivel m\u00ednimo",
+    "mockSupplier": "Proveedor principal",
+    "movement": {
+      "adjustment": "Ajuste",
+      "purchase": "Compra",
+      "saleUsage": "Consumo por venta",
+      "waste": "Merma"
+    },
+    "movementsSubtitle": "Cambios recientes de stock generados por flujos simulados.",
+    "movementsTitle": "Movimientos recientes",
+    "note": "Nota",
+    "product": "Producto",
+    "products": {
+      "beans": "Habichuelas",
+      "bread": "Pan",
+      "cheese": "Queso",
+      "chicken": "Pollo",
+      "ham": "Jam\u00f3n",
+      "ketchup": "Ketchup",
+      "mayonnaise": "Mayonesa",
+      "oil": "Aceite",
+      "rice": "Arroz",
+      "softDrinks": "Refrescos",
+      "water": "Agua"
+    },
+    "productsSubtitle": "Cantidades, costos, nivel m\u00ednimo y estado actual visibles de inmediato.",
+    "productsTitle": "Inventario de productos",
+    "purchaseFormSubtitle": "Formulario prototipo para registrar compras y costos de proveedores.",
+    "purchaseFormTitle": "Formulario de compra",
+    "reason": "Motivo",
+    "reasons": {
+      "burned": "Comida quemada",
+      "damaged": "Producto da\u00f1ado",
+      "expired": "Producto vencido"
+    },
+    "subtitle": "Gestiona niveles de stock, merma, compras y movimientos con unidades expl\u00edcitas.",
+    "supplier": "Proveedor",
+    "title": "Inventario",
+    "totalCost": "Costo total",
+    "unit": "Unidad",
+    "wasteFormSubtitle": "Formulario prototipo para registrar p\u00e9rdidas sin persistencia real.",
+    "wasteFormTitle": "Formulario de merma"
+  },
+  "menu": {
+    "categories": {
+      "breakfast": "Desayuno",
+      "dinner": "Cena",
+      "drinks": "Bebidas",
+      "lunch": "Almuerzo"
+    },
+    "items": {
+      "coffee": "Caf\u00e9",
+      "dinner": "Cena",
+      "executiveLunch": "Almuerzo ejecutivo",
+      "hamCheeseToast": "Tostada de jam\u00f3n y queso",
+      "naturalJuice": "Jugo natural",
+      "softDrink": "Refresco"
+    },
+    "recipe": {
+      "coffeeBeans": "Caf\u00e9 en grano",
+      "fruitMix": "Mezcla de frutas"
+    }
+  },
+  "menuPage": {
+    "adminFutureNote": "La edici\u00f3n de precios y recetas ser\u00e1 solo para administradores en el producto futuro.",
+    "adminNotice": "Los cambios de receta y precio quedar\u00e1n limitados a administradores en etapas posteriores.",
+    "calculatedCost": "Costo calculado",
+    "category": "Categor\u00eda",
+    "editPlate": "Editar plato",
+    "estimatedCost": "Costo estimado",
+    "estimatedProfit": "Ganancia estimada",
+    "formSubtitle": "Panel prototipo para crear o editar platos y productos vendibles.",
+    "formTitle": "Crear o editar plato",
+    "ingredients": "Ingredientes",
+    "ingredientsPlaceholder": "Lista de ingredientes y cantidades",
+    "itemName": "Nombre",
+    "margin": "Margen",
+    "menuItemsTitle": "Productos del men\u00fa",
+    "profitability": {
+      "high": "Saludable",
+      "low": "Requiere revisi\u00f3n",
+      "medium": "Aceptable"
+    },
+    "recipePanelSubtitle": "Vista de ingredientes del producto seleccionado.",
+    "recipePanelTitle": "Detalle de receta",
+    "recipePreview": "Vista de receta",
+    "salePrice": "Precio de venta",
+    "subtitle": "Visualiza recetas, costo estimado y rentabilidad de cada producto vendible.",
+    "title": "Men\u00fa"
+  },
+  "finances": {
+    "assets": {
+      "blender": "Licuadora",
+      "fridge": "Nevera",
+      "fryer": "Freidora",
+      "stove": "Estufa",
+      "tablesChairs": "Mesas y sillas"
+    },
+    "assetsSubtitle": "Valor original y valor actual mostrados solo para reporte informativo.",
+    "assetsTitle": "Activos",
+    "capitalNote": "Los aportes de capital no son ventas ni ganancia.",
+    "capitalSubtitle": "Aportes de due\u00f1os que aumentan la caja del negocio.",
+    "capitalTitle": "Aportes de capital",
+    "cashClosingSubtitle": "Efectivo esperado frente al contado para el cierre del d\u00eda.",
+    "cashClosingTitle": "Cierre de caja",
+    "countedCash": "Efectivo contado",
+    "depreciationInfo": "La depreciaci\u00f3n es solo informativa y no debe afectar el c\u00e1lculo de ganancia diaria.",
+    "difference": "Diferencia",
+    "employeesSubtitle": "Personas, posiciones, tipo de salario y estado activo.",
+    "employeesTitle": "Empleados",
+    "expectedCash": "Efectivo esperado",
+    "expenses": {
+      "cleaning": "Limpieza",
+      "electricity": "Luz",
+      "gas": "Gas",
+      "packaging": "Envases",
+      "rent": "Renta",
+      "transport": "Transporte"
+    },
+    "expensesSubtitle": "Gastos operativos simulados separados de movimientos de due\u00f1os.",
+    "expensesTitle": "Gastos",
+    "modules": {
+      "assets": "Activos",
+      "capital": "Aportes",
+      "cashClosing": "Cierre de caja",
+      "employees": "Empleados",
+      "expenses": "Gastos",
+      "payroll": "N\u00f3mina",
+      "reports": "Reportes",
+      "withdrawals": "Retiros"
+    },
+    "modulesSubtitle": "Puntos de acceso principales para el \u00e1rea financiera.",
+    "modulesTitle": "M\u00f3dulos financieros",
+    "ownerWithdrawalNote": "Retiro de due\u00f1o. No es gasto del negocio.",
+    "payrollSubtitle": "Registros simulados de n\u00f3mina que tambi\u00e9n se reflejan como gastos.",
+    "payrollTitle": "N\u00f3mina",
+    "periods": {
+      "biweeklyMay": "Pago quincenal - Mayo",
+      "monthlyMay": "Pago mensual - Mayo"
+    },
+    "positions": {
+      "adminCook": "Administradora / Cocinera",
+      "purchasesCash": "Compras / Caja",
+      "serviceSupport": "Atenci\u00f3n / Apoyo"
+    },
+    "purchaseDate": "Fecha de compra",
+    "salary": "Salario",
+    "salaryType": "Tipo de salario",
+    "salaryTypes": {
+      "biweekly": "Quincenal",
+      "monthly": "Mensual"
+    },
+    "subtitle": "Separa con claridad gastos operativos, n\u00f3mina, activos y movimientos de due\u00f1os.",
+    "title": "Finanzas",
+    "usefulLife": "Vida \u00fatil",
+    "withdrawalsSubtitle": "Retiros de efectivo de due\u00f1os fuera de la l\u00f3gica normal de gastos.",
+    "withdrawalsTitle": "Retiros de due\u00f1os",
+    "years": "a\u00f1os",
+    "originalValue": "Valor original",
+    "currentValue": "Valor estimado actual"
+  },
+  "more": {
+    "cards": {
+      "appInfo": {
+        "description": "Versi\u00f3n, entorno y alcance del prototipo.",
+        "title": "Informaci\u00f3n de la app"
+      },
+      "business": {
+        "description": "Identidad del negocio, datos de contacto y preferencias operativas.",
+        "title": "Configuraci\u00f3n del negocio"
+      },
+      "categories": {
+        "description": "Categor\u00edas de productos y reportes usadas en toda la app.",
+        "title": "Categor\u00edas"
+      },
+      "help": {
+        "description": "Gu\u00edas, notas de onboarding y referencias de soporte.",
+        "title": "Ayuda"
+      },
+      "language": {
+        "description": "Espa\u00f1ol por defecto con soporte completo para ingl\u00e9s.",
+        "title": "Idioma"
+      },
+      "suppliers": {
+        "description": "Registro de proveedores para compras, costos y notas.",
+        "title": "Proveedores"
+      },
+      "units": {
+        "description": "Configuraci\u00f3n de unidades base para conteo, s\u00f3lidos y l\u00edquidos.",
+        "title": "Unidades de medida"
+      },
+      "users": {
+        "description": "Usuarios, permisos y futuras restricciones por rol.",
+        "title": "Usuarios y permisos"
+      }
+    },
+    "cardsSubtitle": "Accesos estilo configuraci\u00f3n para administraci\u00f3n y datos de referencia.",
+    "cardsTitle": "Secciones adicionales",
+    "subtitle": "Pantallas de apoyo para usuarios, configuraci\u00f3n, proveedores, categor\u00edas, idioma y ayuda.",
+    "title": "M\u00e1s"
+  }
+}

@@ -1,0 +1,352 @@
+{
+  "sales": "Sales",
+  "inventory": "Inventory",
+  "menu": "Menu",
+  "finances": "Finances",
+  "save": "Save",
+  "common": {
+    "currency": "DOP",
+    "days": {
+      "mon": "Mon",
+      "tue": "Tue",
+      "wed": "Wed",
+      "thu": "Thu",
+      "fri": "Fri",
+      "sat": "Sat",
+      "sun": "Sun"
+    },
+    "labels": {
+      "quantity": "Quantity",
+      "time": "Time"
+    },
+    "paymentMethods": {
+      "cash": "Cash",
+      "transfer": "Transfer",
+      "credit": "Credit"
+    },
+    "placeholders": {
+      "amount": "Enter amount",
+      "note": "Add a note for the team",
+      "optional": "Optional",
+      "quantity": "Enter quantity"
+    },
+    "status": {
+      "active": "Active",
+      "available": "Available",
+      "inactive": "Inactive",
+      "low": "Low",
+      "out": "Out"
+    },
+    "units": {
+      "bottle": "bottle",
+      "gallon": "gallon",
+      "kg": "kg",
+      "lb": "lb",
+      "liter": "liter",
+      "ml": "ml",
+      "oz": "oz",
+      "package": "package",
+      "unit": "unit",
+      "unitPlural": "units",
+      "unitSingular": "unit"
+    }
+  },
+  "navigation": {
+    "finances": "Finances",
+    "home": "Home",
+    "inventory": "Inventory",
+    "menu": "Menu",
+    "more": "More",
+    "sales": "Sales"
+  },
+  "roles": {
+    "administrator": "Administrator"
+  },
+  "shell": {
+    "subtitle": "Warm premium control for daily operations"
+  },
+  "dashboard": {
+    "activity": {
+      "counterSale": "Counter sale completed",
+      "ricePurchase": "Rice purchase recorded",
+      "wasteBread": "Bread waste recorded"
+    },
+    "activityTime": {
+      "hours2": "2 h ago",
+      "hours3": "3 h ago",
+      "minutes12": "12 min ago"
+    },
+    "cashClosing": "Cash closing",
+    "cashHelper": "Projected with today's activity",
+    "estimatedProfit": "Estimated profit",
+    "expectedCash": "Expected cash",
+    "expensesToday": "Today's expenses",
+    "heroDateLabel": "Current date",
+    "inventoryAlertHint": "Products close to their minimum level",
+    "inventoryAlerts": "Inventory alerts",
+    "kpiTitle": "Today's performance",
+    "liveMockData": "Static preview data",
+    "lowInventorySummary": "Low stock products need action",
+    "lowProducts": "Low products",
+    "newExpense": "New expense",
+    "newSale": "New sale",
+    "overviewSubtitle": "A quick operational view of sales, cash, and stock.",
+    "quickActions": "Quick actions",
+    "quickActionsHint": "Use the most common flows without leaving the dashboard.",
+    "recentActivity": "Recent activity",
+    "registerPurchase": "Register purchase",
+    "salesSummary": "Weekly sales summary",
+    "salesSummaryHint": "Simple visual trend with mock daily totals.",
+    "salesToday": "Sales today",
+    "sectionOverview": "Today's overview",
+    "subtitle": "Track sales, profits, expenses, and inventory from a dashboard designed for a real cafeteria operation.",
+    "title": "Business control for your cafeteria in one place",
+    "trendExpenses": "Controlled against the daily plan",
+    "trendProfit": "+10.1% vs yesterday",
+    "trendSales": "+12.5% vs yesterday",
+    "welcome": "Welcome back"
+  },
+  "salesPage": {
+    "cash": "Cash",
+    "credit": "Credit",
+    "customerOptional": "Optional customer",
+    "estimatedProfit": "Estimated profit",
+    "formSubtitle": "Mock capture flow for sales registration without persistence.",
+    "formTitle": "Register sale",
+    "noteOptional": "Optional note",
+    "paymentMethod": "Payment method",
+    "preview": "Quick preview",
+    "product": "Dish or product",
+    "registerSale": "Register sale",
+    "salesListSubtitle": "Today's transactions using static prototype data.",
+    "salesListTitle": "Today's sales",
+    "subtitle": "Capture sales, review daily performance, and keep payment methods visible.",
+    "summarySubtitle": "High-level totals for the current day.",
+    "summaryTitle": "Sales summary",
+    "title": "Sales",
+    "totalSold": "Total sold",
+    "transfer": "Transfer"
+  },
+  "inventory": {
+    "actions": {
+      "adjustInventory": "Inventory adjustment",
+      "registerPurchase": "Register purchase",
+      "registerWaste": "Register waste"
+    },
+    "actionsSubtitle": "Core inventory operations for purchasing, losses, and corrections.",
+    "actionsTitle": "Inventory actions",
+    "averageCost": "Average cost",
+    "baseUnit": "Base unit",
+    "categories": {
+      "bakery": "Bakery",
+      "beverages": "Beverages",
+      "dairy": "Dairy",
+      "deli": "Deli",
+      "grains": "Grains",
+      "oils": "Oils",
+      "proteins": "Proteins",
+      "sauces": "Sauces"
+    },
+    "currentQuantity": "Current quantity",
+    "minimumLevel": "Minimum level",
+    "mockSupplier": "Main supplier",
+    "movement": {
+      "adjustment": "Adjustment",
+      "purchase": "Purchase",
+      "saleUsage": "Sales usage",
+      "waste": "Waste"
+    },
+    "movementsSubtitle": "Latest stock changes generated by mock operational flows.",
+    "movementsTitle": "Recent movements",
+    "note": "Note",
+    "product": "Product",
+    "products": {
+      "beans": "Beans",
+      "bread": "Bread",
+      "cheese": "Cheese",
+      "chicken": "Chicken",
+      "ham": "Ham",
+      "ketchup": "Ketchup",
+      "mayonnaise": "Mayonnaise",
+      "oil": "Oil",
+      "rice": "Rice",
+      "softDrinks": "Soft drinks",
+      "water": "Water"
+    },
+    "productsSubtitle": "Visible quantities, costs, minimum stock, and current alert state.",
+    "productsTitle": "Product inventory",
+    "purchaseFormSubtitle": "Prototype form to record supplier purchases and costs.",
+    "purchaseFormTitle": "Purchase form",
+    "reason": "Reason",
+    "reasons": {
+      "burned": "Burned food",
+      "damaged": "Damaged product",
+      "expired": "Expired product"
+    },
+    "subtitle": "Manage stock levels, waste, purchases, and movement visibility with explicit units.",
+    "supplier": "Supplier",
+    "title": "Inventory",
+    "totalCost": "Total cost",
+    "unit": "Unit",
+    "wasteFormSubtitle": "Prototype form to register losses without real persistence.",
+    "wasteFormTitle": "Waste form"
+  },
+  "menu": {
+    "categories": {
+      "breakfast": "Breakfast",
+      "dinner": "Dinner",
+      "drinks": "Drinks",
+      "lunch": "Lunch"
+    },
+    "items": {
+      "coffee": "Coffee",
+      "dinner": "Dinner plate",
+      "executiveLunch": "Executive lunch",
+      "hamCheeseToast": "Ham and cheese toast",
+      "naturalJuice": "Natural juice",
+      "softDrink": "Soft drink"
+    },
+    "recipe": {
+      "coffeeBeans": "Coffee beans",
+      "fruitMix": "Fruit mix"
+    }
+  },
+  "menuPage": {
+    "adminFutureNote": "Price and recipe editing will be administrator-only in the future product.",
+    "adminNotice": "Recipe and price changes will stay limited to administrators in later stages.",
+    "calculatedCost": "Calculated cost",
+    "category": "Category",
+    "editPlate": "Edit plate",
+    "estimatedCost": "Estimated cost",
+    "estimatedProfit": "Estimated profit",
+    "formSubtitle": "Prototype panel for creating or editing dishes and sellable items.",
+    "formTitle": "Create or edit dish",
+    "ingredients": "Ingredients",
+    "ingredientsPlaceholder": "Ingredient list and quantities",
+    "itemName": "Item name",
+    "margin": "Margin",
+    "menuItemsTitle": "Menu items",
+    "profitability": {
+      "high": "Healthy",
+      "low": "Needs review",
+      "medium": "Acceptable"
+    },
+    "recipePanelSubtitle": "Ingredient preview for the selected item.",
+    "recipePanelTitle": "Recipe detail",
+    "recipePreview": "Recipe preview",
+    "salePrice": "Sale price",
+    "subtitle": "Preview recipes, estimated cost, and profitability of each sellable item.",
+    "title": "Menu"
+  },
+  "finances": {
+    "assets": {
+      "blender": "Blender",
+      "fridge": "Refrigerator",
+      "fryer": "Fryer",
+      "stove": "Stove",
+      "tablesChairs": "Tables and chairs"
+    },
+    "assetsSubtitle": "Original and current values shown for informational reporting only.",
+    "assetsTitle": "Assets",
+    "capitalNote": "Capital contributions are not sales or profit.",
+    "capitalSubtitle": "Owner contributions that increase business cash position.",
+    "capitalTitle": "Capital contributions",
+    "cashClosingSubtitle": "Expected versus counted cash for the end of day.",
+    "cashClosingTitle": "Cash closing",
+    "countedCash": "Counted cash",
+    "depreciationInfo": "Depreciation is informational only and must not affect daily profit calculations.",
+    "difference": "Difference",
+    "employeesSubtitle": "People, positions, salary types, and active status.",
+    "employeesTitle": "Employees",
+    "expectedCash": "Expected cash",
+    "expenses": {
+      "cleaning": "Cleaning",
+      "electricity": "Electricity",
+      "gas": "Gas",
+      "packaging": "Packaging",
+      "rent": "Rent",
+      "transport": "Transport"
+    },
+    "expensesSubtitle": "Mock operational expenses separated from owner movements.",
+    "expensesTitle": "Expenses",
+    "modules": {
+      "assets": "Assets",
+      "capital": "Capital",
+      "cashClosing": "Cash closing",
+      "employees": "Employees",
+      "expenses": "Expenses",
+      "payroll": "Payroll",
+      "reports": "Reports",
+      "withdrawals": "Owner withdrawals"
+    },
+    "modulesSubtitle": "High-level access points for the financial area.",
+    "modulesTitle": "Financial modules",
+    "ownerWithdrawalNote": "Owner withdrawal. Not a business expense.",
+    "payrollSubtitle": "Mock payroll records that also become expenses.",
+    "payrollTitle": "Payroll",
+    "periods": {
+      "biweeklyMay": "Biweekly payment - May",
+      "monthlyMay": "Monthly payment - May"
+    },
+    "positions": {
+      "adminCook": "Administrator / Cook",
+      "purchasesCash": "Purchases / Cashier",
+      "serviceSupport": "Service / Support"
+    },
+    "purchaseDate": "Purchase date",
+    "salary": "Salary",
+    "salaryType": "Salary type",
+    "salaryTypes": {
+      "biweekly": "Biweekly",
+      "monthly": "Monthly"
+    },
+    "subtitle": "Separate operational expenses, payroll, assets, and owner cash movements clearly.",
+    "title": "Finances",
+    "usefulLife": "Useful life",
+    "withdrawalsSubtitle": "Owner cash withdrawals tracked outside normal expense logic.",
+    "withdrawalsTitle": "Owner withdrawals",
+    "years": "years",
+    "originalValue": "Original value",
+    "currentValue": "Current value"
+  },
+  "more": {
+    "cards": {
+      "appInfo": {
+        "description": "Version, environment, and prototype scope information.",
+        "title": "App information"
+      },
+      "business": {
+        "description": "Business identity, contact data, and operational preferences.",
+        "title": "Business settings"
+      },
+      "categories": {
+        "description": "Product and reporting categories used across the app.",
+        "title": "Categories"
+      },
+      "help": {
+        "description": "Guides, onboarding notes, and support references.",
+        "title": "Help"
+      },
+      "language": {
+        "description": "Spanish default with English support for all screens.",
+        "title": "Language"
+      },
+      "suppliers": {
+        "description": "Supplier records for purchases, costs, and notes.",
+        "title": "Suppliers"
+      },
+      "units": {
+        "description": "Base units, countable items, solids, and liquids configuration.",
+        "title": "Units of measure"
+      },
+      "users": {
+        "description": "Users, permissions, and future role restrictions.",
+        "title": "Users and permissions"
+      }
+    },
+    "cardsSubtitle": "Settings-style access points for administration and reference data.",
+    "cardsTitle": "More sections",
+    "subtitle": "Support screens for users, settings, suppliers, categories, language, and help.",
+    "title": "More"
+  }
+}
